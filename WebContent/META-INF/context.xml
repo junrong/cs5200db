@@ -1,0 +1,13 @@
+ <Context>
+ <Resource
+ name="jdbc/Assignment4DB"
+ auth="Container"
+ type="javax.sql.DataSource"
+ maxActive="50"
+ maxIdle="30"
+ maxWait="10000"
+ username="root"
+ password="junrong"
+ driverClassName="com.mysql.jdbc.Driver"
+ url="jdbc:mysql://localhost:3306/cs5200"/>
+ </Context>
