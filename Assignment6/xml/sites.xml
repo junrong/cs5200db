@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<siteList>
+    <site id="1" latitude="12.23" longitude="23.34" name="Site 1">
+        <siteId id="1" height="123.45" name="Tower A" sides="3">
+            <towerId id="1" brand="Brand 1" description="Description 1" name="Equipment 1" price="1234.56"/>
+            <towerId id="2" brand="Brand 2" description="Description 2" name="Equipment 2" price="2345.67"/>
+        </siteId>
+        <siteId id="2" height="234.56" name="Tower B" sides="4">
+            <towerId id="3" brand="Brand 3" description="Description 3" name="Equipment 3" price="4321.54"/>
+            <towerId id="4" brand="Brand 4" description="Description 4" name="Equipment 4" price="5432.54"/>
+        </siteId>
+    </site>
+    <site id="2" latitude="21.32" longitude="43.54" name="Site 2">
+        <siteId id="3" height="321.43" name="Tower C" sides="3">
+            <towerId id="5" brand="Brand 5" description="Description 5" name="Equipment 5" price="3212.23"/>
+            <towerId id="6" brand="Brand 6" description="Description 6" name="Equipment 6" price="2367.43"/>
+        </siteId>
+        <siteId id="4" height="213.43" name="Tower D" sides="4">
+            <towerId id="7" brand="Brand 7" description="Description 7" name="Equipment 7" price="3456.65"/>
+            <towerId id="10" brand="Brand 8" description="Description 8" name="Equipment 8" price="5421.67"/>
+        </siteId>
+    </site>
+    <site id="3" latitude="12.12" longitude="13.12" name="Site 5"/>
+    <site id="4" latitude="12.12" longitude="13.12" name="Site 7"/>
+    <site id="5" latitude="22.23" longitude="23.34" name="Site 8"/>
+    <site id="6" latitude="22.23" longitude="23.34" name="Site 9"/>
+</siteList>
