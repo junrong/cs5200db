@@ -1,0 +1,90 @@
+﻿
+body{
+background-image: url(../images/book_background.jpg);
+
+   -moz-background-size:cover;
+    background-size:cover;
+    transform: translate3d(0,0,0);
+   -webkit-transform: translate3d(0,0,0);
+}
+   #websiteTitle 
+        {
+            font-family:'Times New Roman';
+            font-size:35px;
+            font-weight:bolder;
+            color:#c29504;
+            float:left;
+            padding-top:0.21em;
+            padding-bottom:0.37em;
+            margin-left:1.6em;
+        }
+     
+        #booksbg 
+        {
+            padding:0;
+            margin:0;
+         
+            background-size:100% ;
+        }
+        #wrapper 
+        {
+          width:100%;
+        }
+#title {
+        height:20px;
+        position: center;
+        width: auto;
+        border: 6px solid #afd42c;
+        border-radius: 20px;
+        outline:none; 
+    }
+#search_title_button{
+        font-family: 'Times New Roman';
+        font-size:16px;
+        color:grey;
+        background-color: #31be58;
+        border-radius:16px;
+        height:35px;
+        width:6%;
+        border:3px solid #315b3c;
+        outline:none;
+
+    }
+ #nav 
+       {
+
+       }
+       #nav ul 
+       {
+         list-style-type:none; 
+          height:auto;     
+       }
+       #nav li 
+       {
+           display:inline;
+           padding-left:3.5em;
+       }
+        #nav li a 
+        {
+           display:inline-block;
+           color:#c29504;
+           font-family:MoolBoran ;
+           font-size:31px;
+           outline:none;
+           text-decoration:none;
+           -webkit-transition:all 0.4s;
+           padding:8px;
+        }
+       #nav li a:hover 
+       {
+          color:#4cff00;
+       }
+
+#search_guide{
+    color:#f5c52b;
+    position: center;
+}
+
+.label{border:1px solid #000}
+.label-primary{background-color:#337ab7}
+.label-primary[href]:focus,.label-primary[href]:hover{background-color:#286090}
