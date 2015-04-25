@@ -184,9 +184,6 @@ goDeveloper = "searchbookforadmin.jsp";
 			</div>
 		</div>
 	</div>
-	<!-- CONTENT-WRAPPER SECTION END-->
-	<!-- =========================================== -->
-	<!-- =========================================== -->
 
 	<hr class="featurette-divider">
 
